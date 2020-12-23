@@ -1,4 +1,4 @@
-from panda3d.core import NodePath, LineSegs, Loader
+from panda3d.core import NodePath, LineSegs
 
 class Star():
     def __init__(self):
